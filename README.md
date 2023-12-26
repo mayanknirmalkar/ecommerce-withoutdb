@@ -7,10 +7,6 @@ Welcome to our ecommerce application built with React and Redux for state manage
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -21,7 +17,7 @@ This ecommerce application utilizes React for the frontend and Redux for state m
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-ecommerce-app.git
+   git clone [https://github.com/your-username/your-ecommerce-app.git](https://github.com/mayanknirmalkar/redux1.git)
 Navigate to the project directory:
 
 bash
